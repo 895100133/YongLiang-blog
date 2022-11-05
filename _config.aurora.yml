@@ -106,8 +106,8 @@ gitalk:
   autoExpand: true
   clientID: '397de169d308b8a7656b'
   clientSecret: '2b937339ea4dd64226527c1d9dc1e44f398bdc0b'
-  repo: 'dev-blog-comments'
-  owner: '895100133@qq.com'
+  repo: 'https://github.com/895100133/YongLiang-blog'
+  owner: '895100133'
   admin: ['895100133']
   id: uid
   language: cn
